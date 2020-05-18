@@ -2,8 +2,8 @@
     margin: 0px;
 }
 body{
-    background-color: white;
-    color: black;
+    background-color: #F4F4F4 ;
+    color: #393E41;
 }
 header{
     background-color: red;
@@ -37,7 +37,6 @@ footer div h2{
 }
 footer div h3{
     text-indent: 20px;
-    color: #7A6C5D;
 }
 footer div nav h3 a{
     color: #00A7E1;
