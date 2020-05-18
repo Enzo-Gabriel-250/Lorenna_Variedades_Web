@@ -33,15 +33,15 @@ footer div{
 }
 footer div h2{
     margin-top: 10px;
-    color: red;
+    color: #393E41;
 }
 footer div h3{
     text-indent: 20px;
-    color: crimson;
+    color: #7A6C5D;
 }
 footer div nav h3 a{
-    color: cadetblue;
+    color: #00A7E1;
 }
 footer div nav h3 u{
-    color: cadetblue;
+    color: #00A7E1;
 }
